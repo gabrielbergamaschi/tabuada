@@ -1,2 +1,5 @@
 # tabuada
-Criação de uma Tabuada
+Uma plataforma interativa para o aprendizado da tabuada.
+
+
+link para acesso :   https://tabuadainicial.netlify.app/
